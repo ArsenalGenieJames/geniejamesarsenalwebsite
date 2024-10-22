@@ -1,0 +1,18 @@
+.header {
+	height: 100vh;
+	background-image: url("background.png");
+	background-size: cover;
+	background-position: center;
+}
+.carousel-item {
+	margin-top: 20%;
+}
+.carousel-item h1 {
+	color: #ffffff;
+	font-family: "Montserrat", sans-serif;
+	font-size: 80px;
+}
+.carousel-item p {
+	font-family: "Montserrat", sans-serif;
+	color: white;
+}
